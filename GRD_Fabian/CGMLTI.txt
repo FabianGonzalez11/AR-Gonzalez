@@ -1,1 +1,11 @@
-Prueba de modificacion desde GitHub para que se vea reflejado en el repositorio local
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+    Oferta academica del Centro de Gestión de Mercado, Logistíca y Tegnología de la Información
+
+					-Teleinformatica
+					-Logistica
+					-Mercadeo
+					-Industrias creativas
+					-Formación complementaria
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
